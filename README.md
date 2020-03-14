@@ -1,1 +1,1 @@
-# rsi-bot-alert
+# Discord branch
